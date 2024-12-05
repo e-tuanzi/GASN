@@ -1,7 +1,21 @@
-# GASN: Grain Adaptive Segmentation Network for Dense Scenarios
+
+<h2 align="center">GASN: Grain Adaptive Segmentation Network for Dense Scenarios (Updating)</h2>
+<p align="center">
+  <a href=#><img src='https://img.shields.io/badge/Paper-GASN-blue' alt='Paper PDF'></a>
+  <a href=#><img src='https://img.shields.io/badge/License-MIT-green' alt='License'></a>
+</p>
+
 ![image](res/img/gasn.png)
 
-The code will be released after the paper is accepted.
+## News
+- [2024.05.28] 🔥 Release GIDAS dataset.
+- [2024.12.02] 🎉 GASN **accepted** by *Computers and Electronics in Agriculture*. 🎉
+- [2024.12.02] 🔥 Update Apache 2.0 License.
+
+## TODO List
+- [x] Dataset
+- [ ] Release model, checkpoint and demo code. 
+- [ ] Usage document.
 
 ## Dataset download 
 Images and density maps can be downloaded from here:
