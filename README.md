@@ -9,7 +9,7 @@
 
 ## News
 - [2024.05.28] 🔥 Release GIDAS dataset.
-- [2024.12.02] 🎉 GASN **accepted** by *Computers and Electronics in Agriculture*. 🎉
+- [2024.12.02] 🎉 GASN **accepted** by ***Computers and Electronics in Agriculture***. 🎉
 - [2024.12.02] 🔥 Update Apache 2.0 License.
 
 ## TODO List
